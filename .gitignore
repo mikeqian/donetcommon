@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Framework.Qlh.Infrastructure/obj/Debug
+/Framework.Qlh.Infrastructure/Output
+/Framework.Qlh.Infrastructure/packages
+/Framework.Qlh.Infrastructure/Framework.Qlh.Common.Infrastructure.dll
+/Framework.Qlh.Infrastructure/Framework.Qlh.Common.Infrastructure.pdb
